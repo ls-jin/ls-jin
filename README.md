@@ -24,8 +24,4 @@
  <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white"/>
 
 <br/>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ls-jin&langs_count=8)](https://github.com/ls-jin/github-readme-stats)
- 
- <br/> 
  </div>
